@@ -1,0 +1,11 @@
+{
+  "name": "rpg-mechanic-js",
+  "version": "1.0.0",
+  "description": "Everything relate to RPG battle calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiha Kyaw",
+  "license": "ISC"
+}
